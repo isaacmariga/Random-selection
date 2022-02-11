@@ -1,5 +1,5 @@
 let box = document.querySelectorAll(".box")
-let right = document.querySelector("#right")
+let btn = document.querySelectorAll("btn")
 let boxes = document.querySelector(".container")
 let counter = 0
 box[counter].style.display = "block"
